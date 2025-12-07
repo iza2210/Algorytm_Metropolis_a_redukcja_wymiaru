@@ -1,0 +1,6 @@
+pandas==2.3.2
+numpy==2.3.2
+fastparquet==2024.11.0
+matplotlib==3.10.6
+xgboost==3.0.5
+scikit-learn==1.7.2
