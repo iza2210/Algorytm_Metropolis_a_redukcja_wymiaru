@@ -1,0 +1,1 @@
+# Algorytm_Metropolis_a_redukcja_wymiaru
