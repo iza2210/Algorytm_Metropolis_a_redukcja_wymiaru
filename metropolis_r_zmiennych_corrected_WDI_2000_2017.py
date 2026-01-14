@@ -120,7 +120,7 @@ ile_wsp = df["Liczba wybranych"].to_numpy()
 plt.plot(np.arange(len(df)), df['ACCURACY TEST'])
 plt.plot([0,len(df)-1],[full_acc,full_acc])
 
-plt.savefig("./wykresy/accuracy_vs_liczba_iteracji_r_zmiennych_WDI_2000_2017.png", dpi=300)
+plt.savefig("./wykresy/accuracy_vs_liczba_iteracji_r_zmiennych_WDI_2000_2017.png", dpi=100)
 
 plt.figure()
 plt.plot(np.arange(len(ile_wsp)),ile_wsp)
